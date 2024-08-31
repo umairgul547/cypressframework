@@ -1,0 +1,26 @@
+{
+    "program_code": "IN",
+    "country_code": "IN",
+    "member_id": "cypress-auto-",
+    "is_suspended": false,
+    "location_code": "Mobile_IN",
+    "wallet_code": [
+        {
+            "code":"default_wallet"
+        },
+        {
+            "code":"second_wallet"
+        }
+        
+    ],
+    "variables": [
+        {
+            "name": "var100",
+            "value": "123"
+        },
+        {
+            "name": "var200",
+            "value": "1236"
+        }
+    ]
+}
